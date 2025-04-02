@@ -21,4 +21,4 @@ HDMI display
 HDMI cable
 
 Output
-![HDMI Output Example](hdmi_output.jpg)
+![HDMI Output Example](hdmi_output.jpeg)
